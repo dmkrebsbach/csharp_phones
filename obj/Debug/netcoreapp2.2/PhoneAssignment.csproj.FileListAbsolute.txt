@@ -1,0 +1,11 @@
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.csprojAssemblyReference.cache
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.csproj.CoreCompileInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.AssemblyInfoInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.AssemblyInfo.cs
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.deps.json
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.runtimeconfig.json
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.runtimeconfig.dev.json
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.dll
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/bin/Debug/netcoreapp2.2/PhoneAssignment.pdb
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.dll
+/home/dmkrebsbach/CodingDojo/CSharp/PhoneAssignment/obj/Debug/netcoreapp2.2/PhoneAssignment.pdb
